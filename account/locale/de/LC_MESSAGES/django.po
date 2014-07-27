@@ -19,31 +19,31 @@ msgstr ""
 
 #: forms.py:26 forms.py:109
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: forms.py:32 forms.py:78
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: forms.py:36
 msgid "Password (again)"
-msgstr ""
+msgstr "Passwort (Wiederholung)"
 
 #: forms.py:40 forms.py:124 forms.py:170 forms.py:199
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: forms.py:51
 msgid "Usernames can only contain letters, numbers and underscores."
-msgstr ""
+msgstr "Unsernamen dürfen nur Buchstaben, Zahlen sowie das Zeichen '_' enthalten."
 
 #: forms.py:59
 msgid "This username is already taken. Please choose another."
-msgstr ""
+msgstr "Dieser Username ist bereits vergeben."
 
 #: forms.py:66 forms.py:219
 msgid "A user is registered with this email address."
-msgstr ""
+msgstr "Diese E-Mail Adresse wird bereits verwendet."
 
 #: forms.py:71 forms.py:164 forms.py:193
 msgid "You must type the same password each time."
