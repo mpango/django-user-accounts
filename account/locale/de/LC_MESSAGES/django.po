@@ -47,102 +47,102 @@ msgstr "Diese E-Mail Adresse wird bereits verwendet."
 
 #: forms.py:71 forms.py:164 forms.py:193
 msgid "You must type the same password each time."
-msgstr ""
+msgstr "Bitte das selbe Passwort noch einmal angeben."
 
 #: forms.py:82
 msgid "Remember Me"
-msgstr ""
+msgstr "Erinnern"
 
 #: forms.py:95
 msgid "This account is inactive."
-msgstr ""
+msgstr "Dieser Account ist inaktiv."
 
 #: forms.py:110
 msgid "The username and/or password you specified are not correct."
-msgstr ""
+msgstr "Username und/oder Passwort nicht korrekt."
 
 #: forms.py:125
 msgid "The email address and/or password you specified are not correct."
-msgstr ""
+msgstr "E-Mail Adresse und/oder Passwort sind nicht korrekt."
 
 #: forms.py:140
 msgid "Current Password"
-msgstr ""
+msgstr "Derzeitiges Passwort"
 
 #: forms.py:144 forms.py:182
 msgid "New Password"
-msgstr ""
+msgstr "Neues Passwort"
 
 #: forms.py:148 forms.py:186
 msgid "New Password (again)"
-msgstr ""
+msgstr "Neues Passwort (wiederholen)"
 
 #: forms.py:158
 msgid "Please type your current password."
-msgstr ""
+msgstr "Bitte das derzeitige Passwort eingeben."
 
 #: forms.py:175
 msgid "Email address can not be found."
-msgstr ""
+msgstr "E-Mail Adresse kann nicht gefunden werden."
 
 #: forms.py:201
 msgid "Timezone"
-msgstr ""
+msgstr "Zeitzone"
 
 #: forms.py:207
 msgid "Language"
-msgstr ""
+msgstr "Sprache"
 
 #: models.py:31
 msgid "user"
-msgstr ""
+msgstr "user"
 
 #: models.py:32
 msgid "timezone"
-msgstr ""
+msgstr "Zeitzone"
 
 #: models.py:33
 msgid "language"
-msgstr ""
+msgstr "Sprache"
 
 #: models.py:247
 msgid "email address"
-msgstr ""
+msgstr "E-Mail Adresse"
 
 #: models.py:248
 msgid "email addresses"
-msgstr ""
+msgstr "E-Mail Adressen"
 
 #: models.py:297
 msgid "email confirmation"
-msgstr ""
+msgstr "Bestätigungs-E-Mail"
 
 #: models.py:298
 msgid "email confirmations"
-msgstr ""
+msgstr "E-Mails zur Bestätigung"
 
 #: views.py:41
 #, python-brace-format
 msgid "Confirmation email sent to {email}."
-msgstr ""
+msgstr "Bestätigungs-E-Mail wurde an {email} gesendet."
 
 #: views.py:45
 #, python-brace-format
 msgid "The code {code} is invalid."
-msgstr ""
+msgstr "Der Code {code} ist ungültig."
 
 #: views.py:340
 #, python-brace-format
 msgid "You have confirmed {email}."
-msgstr ""
+msgstr "{email} wurde bestätigt."
 
 #: views.py:413 views.py:546
 msgid "Password successfully changed."
-msgstr ""
+msgstr "Das Passwort wurde geändert."
 
 #: views.py:625
 msgid "Account settings updated."
-msgstr ""
+msgstr "Die Einstellungen wurden gespeichert."
 
 #: views.py:709
 #, python-brace-format
